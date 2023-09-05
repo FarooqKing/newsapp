@@ -3,7 +3,9 @@ import React, { Component } from 'react'
 export default class App extends Component {
   render() {
     return (
-      <div></div>
+      <div>
+        this is our first day
+      </div>
     )
   }
 }
