@@ -8,7 +8,7 @@ export default class App extends Component {
       <>
 
       <Navbar/>
-      <News title="1st" desription="1st Desc"/>
+      <News/>
       
       
       
